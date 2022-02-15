@@ -1,5 +1,5 @@
 # frontend
-
+프론트
 ## Project setup
 ```
 npm install
